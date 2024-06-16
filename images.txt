@@ -1,1 +1,1 @@
-linuxserver/freshrss:latest
+neosmemo/memos:latest
