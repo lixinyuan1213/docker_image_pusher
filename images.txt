@@ -1,1 +1,2 @@
 neosmemo/memos:latest
+neosmemo/memos:stable
