@@ -1,2 +1,1 @@
-neosmemo/memos:latest
-neosmemo/memos:stable
+mysql:8.0.28
