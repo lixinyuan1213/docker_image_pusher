@@ -1,1 +1,1 @@
-mysql:8.0.28
+fbraz3/lnmp:7.4
