@@ -1,1 +1,1 @@
-fbraz3/lnmp:7.4
+neosmemo/memos:stable
