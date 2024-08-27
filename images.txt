@@ -1,1 +1,2 @@
-neosmemo/memos:stable
+gitea/gitea:latest
+linuxserver/wikijs:latest
