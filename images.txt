@@ -1,2 +1,1 @@
-gitea/gitea:latest
-linuxserver/wikijs:latest
+portainer/portainer-ce:latest
