@@ -1,1 +1,2 @@
 fbraz3/lnmp:7.3
+mysql:5.6
