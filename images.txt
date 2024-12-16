@@ -1,1 +1,1 @@
-ollama/ollama
+fbraz3/lnmp:7.3
