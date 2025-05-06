@@ -1,1 +1,5 @@
-exadel/compreface
+exadel/compreface-postgres-db
+exadel/compreface-fe
+exadel/compreface-postgres-db
+exadel/compreface-api
+exadel/compreface-admin
