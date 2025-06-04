@@ -1,1 +1,1 @@
-exadel/compreface-core
+godoos/godoos:latest
