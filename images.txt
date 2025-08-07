@@ -1,1 +1,2 @@
 vllm/vllm-openai
+alpine
