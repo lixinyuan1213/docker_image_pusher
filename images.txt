@@ -1,2 +1,1 @@
-vllm/vllm-openai
-alpine
+ubuntu:latest
