@@ -1,1 +1,1 @@
-ubuntu:latest
+certbot/certbot:latest
