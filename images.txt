@@ -1,1 +1,1 @@
-asappinc/ubuntu18
+n8nio/n8n:latest
