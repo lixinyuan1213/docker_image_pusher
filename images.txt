@@ -1,1 +1,1 @@
-harryliu888/funasr-online-server
+emqx:latest
