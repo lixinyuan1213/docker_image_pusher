@@ -1,1 +1,1 @@
-emqx:latest
+elvispos/openjdk8
