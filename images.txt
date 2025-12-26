@@ -1,1 +1,1 @@
-elvispos/openjdk8
+livekit/egress:v1.12
