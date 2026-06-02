@@ -1,1 +1,1 @@
-livekit/egress:v1.12
+mysql:5.6
